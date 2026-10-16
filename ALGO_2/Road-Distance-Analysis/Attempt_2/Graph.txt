@@ -1,0 +1,5 @@
+Damascus -> Homs(120), Daraa(90)
+Homs -> Tartous(95), Aleppo(180)
+Daraa -> Damascus(90)
+Tartous -> Homs(95)
+Aleppo -> Homs(180)

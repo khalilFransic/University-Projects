@@ -1,0 +1,9 @@
+    101=The Amount is negative or zero !
+105=Total quantity is not defined !
+404=The Amount is Too Much !
+505=The NUmber is  not valid!
+100=The Item is not valid!
+101=The product is not valid!
+102=The productLine is not valid!
+103=the number of the Tasks is not valid!
+107=there is an Error!
